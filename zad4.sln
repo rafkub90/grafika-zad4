@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad4", "Assembly-CSharp-firstpass.csproj", "{BB1751C4-C93F-6C43-F71B-29A5923FA9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad4", "Assembly-CSharp.csproj", "{E6A03E88-643E-29D8-2654-EA69EF168A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1751C4-C93F-6C43-F71B-29A5923FA9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1751C4-C93F-6C43-F71B-29A5923FA9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1751C4-C93F-6C43-F71B-29A5923FA9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1751C4-C93F-6C43-F71B-29A5923FA9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A03E88-643E-29D8-2654-EA69EF168A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A03E88-643E-29D8-2654-EA69EF168A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A03E88-643E-29D8-2654-EA69EF168A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A03E88-643E-29D8-2654-EA69EF168A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
